@@ -1,5 +1,5 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import clientPromise from "../lib/mongodb"
+import clientPromise from "@/lib/mongodb"
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default async (req: NextApiRequest, res: NextApiResponse) => {
