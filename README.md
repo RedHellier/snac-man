@@ -4,10 +4,15 @@
 SNAC-MAN is a hybrid game based on Snake and PAC-MAN where you run around a maze, eating food and avoiding ghosts to grow longer and get a highscore!
 
 ### Tech Stack
-SNAC-MAN is built using
 - NextJS
 - TypeScript
 - JavaScript
 - Express
 - Tailwind
 - Deployed on Vercel
+
+### Upcoming Improvements
+- Mobile Implementation
+- Database Cleanup and Management
+- Clearer Graphics
+- Music
