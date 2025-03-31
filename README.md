@@ -9,6 +9,8 @@ SNAC-MAN is a hybrid game based on Snake and PAC-MAN where you run around a maze
 - JavaScript
 - Express
 - Tailwind
+- MongoDB
+- React
 - Deployed on Vercel
 
 ### Upcoming Improvements
